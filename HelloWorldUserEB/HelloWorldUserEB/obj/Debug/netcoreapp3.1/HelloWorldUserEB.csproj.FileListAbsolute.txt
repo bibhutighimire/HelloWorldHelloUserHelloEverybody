@@ -1,0 +1,13 @@
+C:\Users\18705\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.exe
+C:\Users\18705\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.deps.json
+C:\Users\18705\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.runtimeconfig.json
+C:\Users\18705\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.runtimeconfig.dev.json
+C:\Users\18705\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.dll
+C:\Users\18705\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.pdb
+C:\Users\18705\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.csprojAssemblyReference.cache
+C:\Users\18705\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.AssemblyInfoInputs.cache
+C:\Users\18705\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.AssemblyInfo.cs
+C:\Users\18705\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.csproj.CoreCompileInputs.cache
+C:\Users\18705\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.dll
+C:\Users\18705\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.pdb
+C:\Users\18705\HelloWorldHelloUserHelloEverybody\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.genruntimeconfig.cache
